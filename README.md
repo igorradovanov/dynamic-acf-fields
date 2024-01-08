@@ -1,3 +1,4 @@
+[![Psalm Security Scan](https://github.com/igorradovanov/dynamic-acf-fields/actions/workflows/psalm.yml/badge.svg)](https://github.com/igorradovanov/dynamic-acf-fields/actions/workflows/psalm.yml)
 # ACF Dynamic Field Shortcode
 
 This is a WordPress plugin that allows you to retrieve and display ACF (Advanced Custom Fields) custom field values using a shortcode for any post on any page.
