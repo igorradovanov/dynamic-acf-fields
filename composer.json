@@ -1,0 +1,10 @@
+{
+    "name": "igor/dynamic-acf-fields",
+    "authors": [
+        {
+            "name": "Igor Radovanov",
+            "email": "igor@radovanovigor.com"
+        }
+    ],
+    "require": {}
+}
